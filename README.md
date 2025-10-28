@@ -11,7 +11,7 @@ Página única com header, menu de navegação e seção principal com imagem do
 2. Não há backend; tudo é estático.
 
 ## Estrutura do projeto
-- [index.html](index.html) — arquivo principal HTML.
+- [index.html](index.html) — ar quivo principal HTML.
 - [style.css](style.css) — estilos da página.
 - [assets/](assets/) — imagens e outros recursos estáticos.
 - [README.md](README.md) — este arquivo.
