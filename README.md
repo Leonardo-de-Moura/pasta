@@ -20,6 +20,9 @@ Página única com header, menu de navegação e seção principal com imagem do
 - As imagens estão na pasta [assets/](assets/). Ajuste nomes de arquivos no HTML/CSS se renomear imagens.
 - Para testes de responsividade, use as ferramentas de desenvolvedor do navegador.
 
+## adicionais
+- adicionar carrosel de imagens na parte inferior, tornar responsivo, fazendo menu hamburguer, e etc, conectar com api do whatsapp web para tornar 100% otimizado, usar clean code e semantica.
+
 ## Como contribuir
 - Faça um fork, crie uma branch com a mudança e submeta um pull request.
 - Sugestões: melhorar acessibilidade, otimizar imagens.
